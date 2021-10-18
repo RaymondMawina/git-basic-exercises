@@ -1,0 +1,832 @@
+    1  ls
+    2  cd ../
+    3  ls
+    4  cd Umuzi
+    5  git checkout master
+    6  clear
+    7  cd Documents
+    8  cd ../
+    9  ls
+   10  cd ../
+   11  ls
+   12  ../
+   13  ls
+   14  cd home
+   15  ls
+   16  cd raymondmawina
+   17  ls
+   18  cd Umuzi
+   19  git config --global user.name "rmawina@gmail.com"
+   20  git config --global user.name "raymond mawina"
+   21  git config --global user.name 
+   22  git config --global user.email "rmawina@gmail.com"  
+   23  git config --global user.email 
+   24  ssh-keygen -t rsa 4096 -C "rmawina@gmail.com"
+   25  ssh-keygen -t rsa -b 4096 -C "rmawina@gmail.com"
+   26  eval "$(ssh-agent -s)"
+   27  ssh-add ~/.ssh/id_rsa
+   28  cat ~/.ssh/id_rsa.pub
+   29  clear
+   30  git clone git@github.com:RaymondMawina/Hello_World.git
+   31  cd ../
+   32  git clone git@github.com:RaymondMawina/Hello_World.git
+   33  git clone https://github.com/RaymondMawina/Hello_World.git
+   34  ls
+   35  cd Hello_World
+   36  ls
+   37  cd
+   38  ls
+   39  cd Hello_World
+   40  ls -a
+   41  git status
+   42  git log
+   43  git branch
+   44  exit
+   45  ls
+   46  cd Hello_World
+   47  code .
+   48  git checkout master
+   49  code .
+   50  wsl --install
+   51  code .
+   52  ls
+   53  node task06.js
+   54  node task09.js
+   55  node task010.js
+   56  git status
+   57  git add task010.js task09.js
+   58  git status
+   59  git commit -m "modified task09 and task010"
+   60  git log
+   61  git commit -m "modified task09 and task010"
+   62  ls
+   63  cd Hello_World
+   64  git commit -m "modified task09 and task010"
+   65  git status
+   66  ls
+   67  cd Hello_World
+   68  ls
+   69  git pull
+   70  git push
+   71  git status
+   72  ls
+   73  rm login.md
+   74  ls
+   75  git commit -m "removed login.md"
+   76  git push
+   77  cd
+   78  ls
+   79  git clone https://github.com/Umuzi-org/Raymond-Mawina-219-level-1-programming-katas-javascript.git
+   80  ls
+   81  cd ../
+   82  ls
+   83  nano password.md
+   84  ls
+   85  cd ../
+   86  ls
+   87  cd raymondmawina
+   88  nano password.md
+   89  ls
+   90  cd Raymond-Mawina-219-level-1-programming-katas-javascript
+   91  checkout main
+   92  git status
+   93  git checkout main
+   94  git pull
+   95  git checkout -b task/1
+   96  git checkout
+   97  git branch
+   98  git checkout main
+   99  git checkout -b task/2
+  100  git checkout -b task/3
+  101  git checkout -b task/4
+  102  git checkout -b task/5
+  103  git checkout -b task/6
+  104  git checkout -b task/7
+  105  git branch
+  106  git checkout task/1
+  107  touch task1.1.js
+  108  git checkout task/2
+  109  touch task1.2.js
+  110  git checkout task/3
+  111  touch task1.3.js
+  112  git checkout task/4
+  113  touch task1.5.js
+  114  git checkout task/5
+  115  touch task1.5.js
+  116  git checkout git checkout task/6
+  117  git checkout task/6
+  118  touch task1.6.js
+  119  git checkout task/7
+  120  touch task1.7.js
+  121  clear
+  122  git checkout task/1
+  123  ls
+  124  git checkout task/2
+  125  ls
+  126  cd ../
+  127  ls
+  128  cd Raymond-Mawina-219-level-1-programming-katas-javascript
+  129  ls
+  130  git branch -d task/1 task/2 task/3 task/4 task/5 task/6 task/7
+  131  git checkout main
+  132  git branch
+  133  clear
+  134  git branch -d task/2
+  135  git branch task/1
+  136  ls
+  137  rm task1.1.js
+  138  rm task1.2.js
+  139  rm task1.3.js
+  140  rm task1.4.js
+  141  rm task1.5.js
+  142  rm task1.6.js
+  143  rm task1.7.js
+  144  ls
+  145  git checkout task/1
+  146  ls
+  147  touch task1,1.js
+  148  ls
+  149  nano README.md
+  150  code .
+  151  ls
+  152  node task1,1.js
+  153  ls
+  154  git pull
+  155  ls
+  156  cd ../
+  157  ls
+  158  mv password.md Raymond-Mawina-219-level-1-programming-katas-javascript
+  159  ls
+  160  git pull
+  161  cd Raymond-Mawina-219-level-1-programming-katas-javascript
+  162  git pull
+  163  git status
+  164  git add task1,1.js 
+  165  git commit -m "added task1.1"
+  166  git status
+  167  git checkout main
+  168  git ls
+  169  git log
+  170  git checkout task/1
+  171  git log
+  172  git checkout -b task/2
+  173  ls
+  174  touch task1,2.js
+  175  git checkout task/1
+  176  ls
+  177  git log
+  178  ls
+  179  cd Raymond-Mawina-219-level-1-programming-katas-javascript
+  180  checkout task/2
+  181  git checkout task/2
+  182  ls
+  183  node task1,2.js
+  184  git status
+  185  git add task1,2.js 
+  186  git commit -m "added Task1.2"
+  187  clear
+  188  git checkout -b task/3
+  189  touch task1,3.js
+  190  node task1,3.js
+  191  git status
+  192  git add task1,3.js 
+  193  git commit -m "added Task1.3"
+  194  git checkout -b Task/4
+  195  touch task1,4.js
+  196  node task1,4.js
+  197  ld
+  198  ls
+  199  cd Raymond-Mawina-219-level-1-programming-katas-javascript
+  200  node task1,4.js
+  201  git add task1,4.js 
+  202  git commit -m "added Task1.4"
+  203  git checkout -b Task/5
+  204  touch task1,5.js
+  205  node task1,5.js
+  206  git add task1,5.js
+  207  git commit -m "Added Task1.5"
+  208  git checkout -b Task/6
+  209  touch task1,6.js
+  210  node task1,6.js
+  211  git add task1,6.js
+  212  git commit -m "Added Task1.6"
+  213  git checkout -b Task/7
+  214  touch task1,7.js
+  215  node task1,7.js
+  216  git add task1,7.js
+  217  git commit -m "Added Task1,7"
+  218  git checkout main
+  219  git log
+  220  git merge Task/1
+  221  git pull
+  222  git push
+  223  git push -u origin main
+  224  git remote add origin https://github.com/RaymondMawina/Level-1_-coding_challenges.git
+  225  git remote -v
+  226  git push -u origin main
+  227  git checkout Task1/
+  228  git checkout Task/1
+  229  git branch
+  230  git checkout task/1
+  231  git push
+  232  ls
+  233  cd Raymond-Mawina-219-level-1-programming-katas-javascript
+  234  cd ../
+  235  git clone https://github.com/Umuzi-org/Raymond-Mawina-223-person-javascript.git
+  236  ls
+  237  cd Raymond-Mawina-223-person-javascript
+  238  touch Person.js
+  239  ls
+  240  code .
+  241  node Person.js
+  242  git status
+  243  git add Person.js
+  244  git commit -m "added Person.js"
+  245  git push
+  246  git push -u origin main
+  247  git remote add origin https://github.com/Umuzi-org/Raymond-Mawina-223-person-javascript.git
+  248  git remote -v
+  249  git push -u origin main
+  250  git push -u origin person
+  251  git remote add origin https://github.com/Umuzi-org/Raymond-Mawina-223-person-javascript.git
+  252  git push -u origin person
+  253  git remote add origin https://github.com/Umuzi-org/Raymond-Mawina-223-person-javascript/tree/person
+  254  git push
+  255  git branch person
+  256  git branch
+  257  git checkout person
+  258  ls
+  259  git remote add origin https://github.com/Umuzi-org/Raymond-Mawina-223-person-javascript/tree/person
+  260  git push -u origin person
+  261  node Person.js
+  262  ls
+  263  cd  Raymond-Mawina-223-person-javascript
+  264  git checkout main
+  265  git push
+  266  cd ../
+  267  ls
+  268  cd Umuzi
+  269  ls
+  270  cd Hello_World
+  271  cd ../
+  272  ls
+  273  cd Hello_World
+  274  ls
+  275  git remote add origin https://github.com/RaymondMawina/Level0_coding_Challenges.git
+  276  git remote -v
+  277  git push -u origin main
+  278  git pull
+  279  git push -u origin main
+  280  git push -u origin https://github.com/RaymondMawina/Level0_coding_Challenges.git
+  281  git push -u https://github.com/RaymondMawina/Level0_coding_Challenges.git
+  282  git pull
+  283  git push -u https://github.com/RaymondMawina/Level0_coding_Challenges.git
+  284  git branch -m main master
+  285  git fetch origin
+  286  git branch -u origin/master master
+  287  git remote set-head origin -a
+  288  git push -u https://github.com/RaymondMawina/Level0_coding_Challenges.git
+  289  git push
+  290  code .
+  291  git status
+  292  git commit -m "made minor changes and deleted task06B.js"
+  293  git push -u https://github.com/RaymondMawina/Level0_coding_Challenges.git
+  294  git status
+  295  git add task01.js
+  296  git status
+  297  git add task02.js
+  298  git add task03.js
+  299  git add task04.js
+  300  git add task05.js
+  301  git add task06.js
+  302  git rm task06B.js
+  303  git rm task07.js
+  304  git add task07.js
+  305  git add task08.js
+  306  git add task09.js
+  307  git add task010.js
+  308  git rm login.md
+  309  git status
+  310  git commit -m "made minor changes and deleted task06B.js"
+  311  git push -u https://github.com/RaymondMawina/Level0_coding_Challenges.git
+  312  cd ../
+  313  ls
+  314  cd Raymond-Mawina-219-level-1-programming-katas-javascript
+  315  ls
+  316  git checkout main
+  317  ls
+  318  git checkout task/2
+  319  ls
+  320  git checkout Task/7
+  321  ls
+  322  git mv task1,1.js task/1
+  323  ls
+  324  cd ../
+  325  ls
+  326  mkdir Level01
+  327  ls
+  328  cd Raymond-Mawina-219-level-1-programming-katas-javascript
+  329  ls
+  330  mv task1,1.js Level01
+  331  ls
+  332  mv task1,2.js Level01
+  333  mv task1,3.js Level01
+  334  mv task1,4.js Level01
+  335  mv task1,5.js Level01
+  336  mv task1,6.js Level01
+  337  mv task1,7.js Level01
+  338  ls
+  339  cd Level01
+  340  cd ../
+  341  ls
+  342  cd Level01
+  343  ls
+  344  cd ../
+  345  ls
+  346  cd Raymond-Mawina-219-level-1-programming-katas-javascript
+  347  ls
+  348  git branch
+  349  git cd Level01
+  350  . code
+  351  ls
+  352  cd Raymond-Mawina-219-level-1-programming-katas-javascript
+  353  code .
+  354  git checkout Task/6
+  355  code .
+  356  git status
+  357  git restore task1,1.js
+  358  git status
+  359  git restore task1,2.js
+  360  git restore task1,3.js
+  361  git restore task1,4.js
+  362  git restore task1,5.js
+  363  git restore task1,6.js
+  364  git restore task1,7.js
+  365  git checkout Task/7
+  366  git restore task1,7.js
+  367  git checkout main
+  368  ls
+  369  git status
+  370  git add task1,1.js
+  371  git add task1,2.js
+  372  git add task1,3.js
+  373  git add task1,4.js
+  374  git add task1,5.js
+  375  git add task1,6.js
+  376  git add task1,7.js
+  377  git commit -m 
+  378  git commit -m "changes"
+  379  git checkout main
+  380  ls
+  381  git checkout Task/7
+  382  ls
+  383  git push -u https://github.com/Umuzi-org/Raymond-Mawina-219-level-1-programming-katas-javascript/tree/Level01
+  384  git push -u https://github.com/Umuzi-org/Raymond-Mawina-219-level-1-programming-katas-javascript.git
+  385  ls
+  386  cd Umuzi
+  387  ls
+  388  mkdir git-basic-exercises
+  389  ls
+  390  rm git-basic-exercises
+  391  rmdir git-basic-exercises
+  392  ls
+  393  rmdir git-basic-exercises
+  394  mkdir git-basic-exercises
+  395  ls
+  396  cd git-basic-exercises
+  397  git init
+  398  ls
+  399  ls -a 
+  400  touch README.md
+  401  git add README.md
+  402  ls -a
+  403  git commit -m "initial commit"
+  404  nano README.md
+  405  cat README.md
+  406  git status
+  407  git add README.md
+  408  git commit -m "second commit"
+  409  nano README.md
+  410  cat README.md
+  411  git add README.md
+  412  git commit -m "third commit"
+  413  git log
+  414  git checkout 1cfea3d3cf5c36f28b858380686aabc7ed663e36
+  415  cat README.md
+  416  git checkout main
+  417  git checkout master
+  418  cat README.md
+  419  git branch
+  420  git branch -m master main
+  421  ls
+  422  git branch milkshake-flavours
+  423  git branch
+  424  git checkout milkshake-flavours
+  425  nano milkshakes.md
+  426  git status
+  427  git add milkshakes.md
+  428  git commit -m "added initial flavours"
+  429  git checkout main
+  430  ls -a
+  431  git branch history
+  432  git checkout history
+  433  git log
+  434  history > history.txt
+  435  git add history.txt
+  436  git commit -m "added history"
+  437  git checkout milkshake-flavours
+  438  git log
+  439  nano README.md
+  440  git add README.md
+  441  git commit -m "random readme changes"
+  442  git checkout history
+  443  cat README.md
+  444  rm README.md
+  445  echo "booya" > README.md
+  446  git add README.md
+  447  git commit -m "rewrote readme"
+  448  git checkout main
+  449  ls
+  450  git log
+  451  git checkout milkshake-flavours
+  452  ls
+  453  git log
+  454  git checkout history
+  455  ls
+  456  git log
+  457  git checkout main
+  458  git merge milkshake-flavours
+  459  ls
+  460  git log
+  461  git checkout history
+  462  git merge main
+  463  cat README.md
+  464  nano README.md
+  465  git add README.md
+  466  git status
+  467  git merge
+  468  git commit
+  469  git log
+  470  git remote add origin https://github.com/RaymondMawina/RaymondMawina-git-basic-exercises.git
+  471  git branch -M main
+  472  git push -u origin main
+  473  git push -u origin milkshake-flavours
+  474  git push -u origin history
+  475  git branch
+  476  clear
+  477  git branch
+  478  git log
+  479  git branch
+  480  git checkout main
+  481  ls -a
+  482  git status
+  483  git checkout history
+  484  git reflog
+  485  git checkout 6f9bd536f9bd53
+  486  git branch main history
+  487  git branch history main
+  488  git branch
+  489  checkout history
+  490  git checkout history
+  491  ls
+  492  ls ../
+  493  rmdir git-basic-exercises
+  494  cd ../
+  495  ls
+  496  mkdir git-basic-exercises
+  497  ls
+  498  cd git-basic-exercises
+  499  git init
+  500  touch README.md
+  501  git add README.md
+  502  git commit -m "initial commit"
+  503  nano README.md
+  504  git add README.md
+  505  git commit -m "second commit"
+  506  nano README.md
+  507  git add README.md
+  508  git commit -m "second commit"
+  509  cd ../
+  510  rmdir git-basic-exercises
+  511  rm git-basic-exercises
+  512  rmdir git-basic-exercises
+  513  ls
+  514  cd git-basic-exercises
+  515  ls
+  516  rm README.md
+  517  cd ..
+  518  ls
+  519  rmdir git-basic-exercises
+  520  cd git
+  521  cd git-basic-exercises
+  522  ls
+  523  ls -a
+  524  rm .
+  525  rmdir . .. .git
+  526  rm -rf .git
+  527  cd ..
+  528  rmdir git-basic-exercises
+  529  ls
+  530  mkdir git-basic-exercises
+  531  ls
+  532  cd git-basic-exercises
+  533  ls
+  534  git init
+  535  touch README.md
+  536  git add README.md
+  537  git commit -m "initial commit"
+  538  nano README.md
+  539  git add README.md
+  540  git commit -m "second commit"
+  541  nano README.md
+  542  git add README.md
+  543  git commit -m "third commit"
+  544  git log
+  545  git checkout d5d09fcb10d585e902bb2dfc33bb6cc6acf510de
+  546  cat README.md
+  547  git checkout master
+  548  git branch master main
+  549  git branch main master
+  550  git branch -d main
+  551  git branch -m master main
+  552  git branch
+  553  git log
+  554  git branch milkshake-flavours
+  555  git checkout milkshake-flavours
+  556  nano milkshakes.md
+  557  git add milkshakes.md
+  558  git commit -m "added initial flavours"
+  559  git checkout main
+  560  git branch history
+  561  git checkout history
+  562  history > history.txt
+  563  git add history.txt
+  564  git commit -m "added history"
+  565  git checkout milkshake-flavours
+  566  nano README.md
+  567  git add README.md
+  568  git commit -m "random readme changes"
+  569  git checkout history
+  570  cat README.md
+  571  rm README.md
+  572  echo "booya" > README.md
+  573  git add README.md
+  574  git commit -m "rewrote readme"
+  575  git checkout main
+  576  git log
+  577  git checkout milkshake-flavours
+  578  git log
+  579  git checkout history
+  580  git log
+  581  git checkout main
+  582  git merge milkshake-flavours
+  583  git checkout history
+  584  git merge main
+  585  git branch
+  586  nano README.md
+  587  code .
+  588  git status
+  589  git add README.md
+  590  git commit -m "resolved the merge conflicts"
+  591  git branch
+  592  git checkout main
+  593  git log
+  594  git checkout history
+  595  git log
+  596  git remote add origin https://github.com/RaymondMawina/git-basic-exercises.git
+  597  git branch -M main
+  598  git push -u origin main
+  599  git push -u origin history
+  600  git branch
+  601  cd ../
+  602  ls
+  603  rmdir git-basic-exercises
+  604  cd git-basic-exercises
+  605  ls
+  606  ls -a
+  607  rm -rf .git
+  608  cd ../
+  609  ls
+  610  rmdir git-basic-exercises
+  611  cd ../
+  612  ls
+  613  cd raymondmawina
+  614  ls
+  615  cd git-basic-exercises
+  616  ls -a
+  617  remove README.md history.txt
+  618  rm README.md history.txt
+  619  ls
+  620  rm milkshakes.md
+  621  ls
+  622  cd ,,/
+  623  cd ../
+  624  rmdir git-basic-exercises
+  625  ls
+  626  mkdir git-basic-exercises
+  627  ls
+  628  cd git-basic-exercises
+  629  git int
+  630  git init
+  631  git branch -m master main
+  632  git branch
+  633  git branch main
+  634  git branch master
+  635  ls
+  636  ls -a
+  637  git branch
+  638  git checkout master
+  639  rm -rf .git
+  640  git init
+  641  git checkout master
+  642  git branch ray
+  643  rm -rf .git
+  644  ls -a
+  645  cd ../
+  646  rmdir -rf git-basic-exercises
+  647  rmdir git-basic-exercises
+  648  mkdir git-basic-exercises
+  649  cd git-basic-exercises
+  650  git init
+  651  git branch
+  652  rm -rf .git
+  653  cd ../
+  654  rmdir git-basic-exercises
+  655  ls
+  656  mkdir Example
+  657  cd Example
+  658  ls
+  659  mkdir git-basic-exercises
+  660  cd git-basic-exercises
+  661  git init
+  662  gibranch
+  663  git ranch
+  664  git branch
+  665  git checkout master
+  666  git init
+  667  git branch
+  668  git branch -av
+  669  cd ../
+  670  cd../
+  671  cd ..
+  672  ls
+  673  cd Umuzi
+  674  ls -a
+  675  ls
+  676  mkdir GIT
+  677  cd GIT
+  678  git init --initial-branch=main
+  679  git init -b main
+  680  git init main
+  681  ls
+  682  git rm -rf main
+  683  git rm main
+  684  git init
+  685  git branch
+  686  git init -b main
+  687  git init bare
+  688  git symbolic-ref HEAD refs/heads/main
+  689  ls
+  690  git branch
+  691  git branch ray
+  692  cd ../
+  693  ls
+  694  cd ..
+  695  ls
+  696  mkdir RaymondMawina
+  697  cd raymondmawina
+  698  ls
+  699  rm 
+  700  ls
+  701  rm -r *
+  702  ls
+  703  cd ../
+  704  ls
+  705  cd raymondmawina
+  706  ls
+  707  cd Hello_World
+  708  ls
+  709  cd ..
+  710  rmdir Hello_World
+  711  rm -r *
+  712  ls
+  713  mkdir git-ex
+  714  ls
+  715  cd git-ex
+  716  git init
+  717  git branch
+  718  git --version
+  719  sudo apt-get remove git
+  720  sudo apt-get purge git
+  721  sudo apt-get purge --auto-remove git
+  722  sudo apt-get install git
+  723  git branch
+  724  git rm -rf .git
+  725  rm -rf .git
+  726  git config --global user.name "rmawina@gmail.com"
+  727  git config --global user.name "raymondmawina"
+  728  git config --global user.email "rmawina@gmail.com"
+  729  cd ..
+  730  git clone https://github.com/RaymondMawina/git-basic-exercises.git
+  731  ls
+  732  cd git-basic-exercises
+  733  git branch
+  734  git checkout main
+  735  git checkout master
+  736  ls
+  737  cd ..
+  738  ls
+  739  rmdir git-basic-exercises
+  740  git clone https://github.com/RaymondMawina/git-basic-exercises.git
+  741  rm -r *
+  742  ls
+  743  git clone https://github.com/RaymondMawina/git-basic-exercises.git
+  744  ls
+  745  cd git-basic-exercises
+  746  git branch
+  747  touch README.md
+  748  git add README.md
+  749  git commit -m "initial commit"
+  750  nano README.md
+  751  git add README.md
+  752  git commit -m "second commit"
+  753  nano README.md
+  754  git add README.md
+  755  git commit -m "third commit"
+  756  git log
+  757  ls
+  758  rm -r *
+  759  ls
+  760  cd git-basic-exercises
+  761  ls
+  762  ls -a
+  763  git rm .git
+  764  rm .git
+  765  rm -rf .git
+  766  ls
+  767  cd ..
+  768  l
+  769  ls
+  770  rm -rf .git
+  771  rm -r *
+  772  ls
+  773  cd
+  774  ls
+  775  git clone https://github.com/RaymondMawina/git-basic-exercises.git
+  776  ls
+  777  cd git-basic-exercises
+  778  ls
+  779  git status
+  780  git log
+  781  cd ..
+  782  ls
+  783  rm -r *
+  784  ls
+  785  cd ..
+  786  ls
+  787  cd raymondmawina
+  788  mkdir git-basic-exercises
+  789  cd git-basic-exercises
+  790  git init 
+  791  git branch -m master main
+  792  git branch -m main master
+  793  git branch main
+  794  git branch master main
+  795  git commit
+  796  git branch
+  797  git branch main
+  798  git checkout -b main
+  799  git branch
+  800  git branch monster
+  801  cd ..
+  802  rm -r *
+  803  ls
+  804  cd ..
+  805  ls
+  806  cd raymondmawina
+  807  mkdir git-basic-exercises
+  808  cd git-basic-exercises
+  809  git init
+  810  touch README.md
+  811  git commit -m "initial commit"
+  812  git add README.md
+  813  git commit -m "initial commit"
+  814  git log
+  815  git branch
+  816  git branch -m master main
+  817  git branch
+  818  nano README.md
+  819  git add README.md
+  820  git commit -m "second commit"
+  821  nano README.md
+  822  git add README.md
+  823  git commit -m "third commit"
+  824  git log
+  825  git branch milkshake-flavours
+  826  git checkout milkshake-flavours
+  827  nano milkshakes.md
+  828  git add milkshakes.md
+  829  git commit -m "added initial flavours"
+  830  git checkout main
+  831  git branch history
+  832  git checkout history
